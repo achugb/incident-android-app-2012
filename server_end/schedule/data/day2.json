@@ -1,0 +1,182 @@
+[
+	{
+		"time": "07:00-10:00",
+		"event": "Slam Dunk",
+		"venue": "Basketball Court",
+		"description": "SLAMDUNK is a fusion of style, sportsmanship and athleticism. An inter-collegiate, invitational basketball tournament for men and women, SLAMDUNK attracts professional basketball teams of the highest caliber from all over the country."
+	},
+	{
+		"time": "09:00-11:00",
+		"event": "Workshop - Martial Art",
+		"venue": "Sports Complex",
+		"description": ""
+	},
+	{
+		"time": "09:00-12:00",
+		"event": "JAM",
+		"venue": "ATB Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "09:00-13:00",
+		"event": "Adventure Sports",
+		"venue": "Hockey Gr./Mech Dept.",
+		"description": ""
+	},
+	{
+		"time": "10:00-12:00",
+		"event": "Chalk Carving workshop",
+		"venue": "Main Building Classroom",
+		"description": ""
+	},
+	{
+		"time": "10:00-15:00",
+		"event": "Spelling Bee",
+		"venue": "SS",
+		"description": ""
+	},
+	{
+		"time": "10:30-12:30",
+		"event": "Workshop - Theatre",
+		"venue": "ATB",
+		"description": ""
+	},
+	{
+		"time": "09:30-11:30",
+		"event": "Haadonda Naa Haaduvenu(Kannada Antakshari)",
+		"venue": "SJA",
+		"description": ""
+	},
+	{
+		"time": "10:00-13:00",
+		"event": "Hindi Lit and Film Quiz Eliminations",
+		"venue": "ISTE Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "10:00-13:00",
+		"event": "Expose: HDR Workshop",
+		"venue": "AppMech Seminar Hall",
+		"description": "High Dynamic Range Imaging (HDRI or just HDR) is a set of techniques that allows a greater dynamic range between the lightest and darkest areas of an image than current standard digital imaging techniques or photographic methods. This wide dynamic range allows HDR images to represent more accurately the range of intensity levels found in real scenes, ranging from direct sunlight to faint starlight, and is often captured by way of a plurality of differently exposed pictures of the same subject matter."
+	},
+	{
+		"time": "10:00-15:00",
+		"event": "Informalz - Pool Splash",
+		"venue": "Pool",
+		"description": "Water polo game. Teams of 5"
+	},
+	{
+		"time": "10:00-17:00",
+		"event": "Pulse",
+		"venue": "NTB",
+		"description": "An electrifying atmosphere, the ecstatic flow of blood through the veins, 15000 Watts of mind-numbing sound and a high that you will never forget! Headbang till you lose yourself."
+	},
+	{
+		"time": "10:00-18:00",
+		"event": "Expose: Frames",
+		"venue": "SS-2",
+		"description": "This happening event pushes photo enthusiast from all over the nation to put their best clicks forward. This one-of-a-kind event entertains photographers of many categories including naturalism, black and white, shutterbug etc."
+	},
+	{
+		"time": "10:00-18:00",
+		"event": "Kalakriti",
+		"venue": "Underpass",
+		"description": "A display of our finest artistic talent. A jaw-dropping art exhibition by our very own. Everyone is welcome!"
+	},
+	{
+		"time": "10:00-19:00",
+		"event": "Gaming Events",
+		"venue": "CCC/SACA",
+		"description": "FIFA, DotA, Counter Strike and Need for Speed. Come battle it out!"
+	},
+	{
+		"time": "12:00-17:30",
+		"event": "Dance Events-Tandav/Solo",
+		"venue": "SJA",
+		"description": "Mesmerising performances that take you on a trip to the cosmos. Witness the entire colours of India that blend into an evening of brilliance. All forms of Indian Classical Dance are permitted including folk dances and other ethnic renditions. Participants are free to choose any theme and perform a sequence on the theme."
+	},
+	{
+		"time": "14:00-16:00",
+		"event": "Workshop-martial art",
+		"venue": "Sports Complex",
+		"description": ""
+	},
+	{
+		"time": "14:00-16:00",
+		"event": "Hindi Lit and film Quiz Finals",
+		"venue": "Main Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "10:00-13:00",
+		"event": "Hindi Lit and Film Quiz Finals",
+		"venue": "ISTE Seminar Hall",
+		"description": ""
+	},	
+	{
+		"time": "14:00-16:00",
+		"event": "Hands Free Competition",
+		"venue": "Main Building Classroom",
+		"description": "Imagine!! Taken away the ability to use your hands, how will you choose to satisfy your artistic thirst? Well!!!Discover it for yourself at incident 2012 handsfree."
+	},
+	{
+		"time": "14:00-16:00",
+		"event": "Workshop-Bboying",
+		"venue": "Sports Complex",
+		"description": ""
+	},
+	{
+		"time": "14:00-16:30",
+		"event": "Kaali Kagada",
+		"venue": "Mining Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "14:00-17:00",
+		"event": "India Quiz",
+		"venue": "ATB Seminar Hall",
+		"description": "A quiz on everything about India, from politics and business, to the geography and history of the subcontinent."
+	},
+	{
+		"time": "15:00-19:00",
+		"event": "Adventure Sports",
+		"venue": "Hockey Gr./Mech Dept.",
+		"description": ""
+	},
+	{
+		"time": "16:00-18:00",
+		"event": "Sand Sculpture",
+		"venue": "Beach",
+		"description": ""
+	},
+	{
+		"time": "16:00-18:00",
+		"event": "Sandemonium",
+		"venue": "Beach",
+		"description": "Want to relive your child hood days of playing with sand, splashing in the sea water or soaking in the sun. Consider your wish granted at the Incident 2012. We have a wholesome package of all such possible fun activities at Sandemonium."
+	},
+	{
+		"time": "16:00-18:00",
+		"event": "Beach Events",
+		"venue": "Beach",
+		"description": "The sands, the shore, the lighthouse, the crashing waves and a picture-perfect sunset. India's only campus with a private beach brings you pulsating music, kite- speckled sky and fun games."
+	},
+	{
+		"time": "17:00-18:30",
+		"event": "Potpourri Finals",
+		"venue": "ATB Seminar Hall",
+		"description": "A mix of games such as charades, picto, grids and rebuses, to find the most versatile literary enthusiasts."
+	},
+	{
+		"time": "17:00-19:30",
+		"event": "Slam Dunk",
+		"venue": "Basketball Court",
+		"description": "SLAMDUNK is a fusion of style, sportsmanship and athleticism. An inter-collegiate, invitational basketball tournament for men and women, SLAMDUNK attracts professional basketball teams of the highest caliber from all over the country."
+	},
+	{
+		"time": "18:00-22:00",
+		"event": "Entertainment X",
+		"venue": "SAC",
+		"description": ""
+	},
+]

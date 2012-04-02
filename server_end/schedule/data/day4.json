@@ -1,0 +1,158 @@
+[
+	{
+		"time": "07:00-10:00",
+		"event": "Slam Dunk",
+		"venue": "Basketball Court",
+		"description": "SLAMDUNK is a fusion of style, sportsmanship and athleticism. An inter-collegiate, invitational basketball tournament for men and women, SLAMDUNK attracts professional basketball teams of the highest caliber from all over the country."
+	},
+	{
+		"time": "09:00-12:00",
+		"event": "NITK Debate",
+		"venue": "AppMech Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "09:00-13:00",
+		"event": "Adventure Sports",
+		"venue": "Hockey Gr./Mech Dept.",
+		"description": ""
+	},
+	{
+		"time": "09:00-13:00",
+		"event": "Sports Quiz",
+		"venue": "Main Seminar Hall",
+		"description": "A quiz on sporting events such as the Olympics and other competitive games."
+	},
+	{
+		"time": "10:00-12:00",
+		"event": "Ragalaya, Vocals, Instruments",
+		"venue": "SJA",
+		"description": "A unique opportunity to pay homage to the motherland. A chance to showcase the compositions of our ancestors, to the rest of the world."
+	},
+	{
+		"time": "10:00-12:00",
+		"event": "Workshop-Bhangra",
+		"venue": "Sports Complex",
+		"description": ""
+	},
+	{
+		"time": "10:00-12:00",
+		"event": "Rangoli",
+		"venue": "Physics Dept Corridor",
+		"description": ""
+	},
+	{
+		"time": "10:00-12:00",
+		"event": "Hindi Extempore",
+		"venue": "ISTE Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "10:00-15:00",
+		"event": "Nigoodha Rahasya",
+		"venue": "Mining Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "10:00-15:00",
+		"event": "Informalz",
+		"venue": "SS",
+		"description": "A bunch of short super random competitions. Win cool prizes really quick. Just walk in and have fun."
+	},
+	{
+		"time": "10:00-13:00",
+		"event": "Adventure Sports",
+		"venue": "Beach/MechDept/Pool",
+		"description": ""
+	},
+	{
+		"time": "10:00-18:00",
+		"event": "Expose: Frames",
+		"venue": "SS-2",
+		"description": "This happening event pushes photo enthusiast from all over the nation to put their best clicks forward. This one-of-a-kind event entertains photographers of many categories including naturalism, black and white, shutterbug etc."
+	},
+	{
+		"time": "10:00-19:00",
+		"event": "Gaming Events",
+		"venue": "CCC/SACA",
+		"description": "FIFA, DotA, Counter Strike and Need for Speed. Come battle it out!"
+	},
+	{
+		"time": "10:00-19:00",
+		"event": "Kalakriti",
+		"venue": "Underpass",
+		"description": "A display of our finest artistic talent. A jaw-dropping art exhibition by our very own. Everyone is welcome!"
+	},
+	{
+		"time": "13:30-15:30",
+		"event": "Lone Wolf Finals",
+		"venue": "Main Seminar Hall",
+		"description": "A premier solo quiz championship, to find the best quizzer in South India."
+	},
+	{
+		"time": "13:30-15:30",
+		"event": "Body Art",
+		"venue": "Main Building Classroom",
+		"description": "Let's give the ancient art of body decoration a new meaning at incident 2012. The participants will have to come in groups of two. One of them is expected to paint on other person's body (face, back, hands) in lines with the theme provided."
+	},
+	{
+		"time": "13:30-19:30",
+		"event": "Dance Events -Promenade/Duet",
+		"venue": "SJA",
+		"description": "The moves, the energy, the beats, the zeal...Performances that fill you with awe and leave you fighting an urge to shake your legs to the music! Teams need to perform an energetic and entertaining dance sequence with/without any theme for the same."
+	},
+	{
+		"time": "14:00-16:00",
+		"event": "Hindi Events- Story Writing",
+		"venue": "ChemDept Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "15:00-20:00",
+		"event": "A cappella, Unplugged",
+		"venue": "SS",
+		"description": "A perfect symphony of melodious overtures with the backdrop of a setting sun. If you are the sort that finds nothing more soothing than the strumming of a good ol ' acoustic guitar, here is the chance to flaunt the grandeur of pure music."
+	},
+	{
+		"time": "15:00-17:00",
+		"event": "Street Play",
+		"venue": "Outside ATB",
+		"description": "With minimal props, impromptu background scores and a social theme, sway the audience with your action, dialogue and sound. Street Play at Incident 2012, is a debut dramatics event set to scorch the streets. Come one, come all, enthrall the crowd with your dramatics."
+	},
+	{
+		"time": "15:00-19:00",
+		"event": "Adventure Sports",
+		"venue": "Hockey Gr./Mech Dept.",
+		"description": ""
+	},
+	{
+		"time": "15:30-18:30",
+		"event": "General Quiz",
+		"venue": "ATB Seminar Hall",
+		"description": "A general quiz on current affairs and news from around the world."
+	},
+	{
+		"time": "16:00-17:30",
+		"event": "Baayi Baduka",
+		"venue": "AppMech Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "16:00-18:00",
+		"event": "Beach Events",
+		"venue": "Beach",
+		"description": "The sands, the shore, the lighthouse, the crashing waves and a picture-perfect sunset. India's only campus with a private beach brings you pulsating music, kite- speckled sky and fun games."
+	},
+	{
+		"time": "16:00-19:30",
+		"event": "Slam Dunk",
+		"venue": "Basketball Court",
+		"description": "SLAMDUNK is a fusion of style, sportsmanship and athleticism. An inter-collegiate, invitational basketball tournament for men and women, SLAMDUNK attracts professional basketball teams of the highest caliber from all over the country."
+	},
+	{
+		"time": "20:00-23:30",
+		"event": "Western/Fusion Night",
+		"venue": "SAC",
+		"description": ""
+	}
+]

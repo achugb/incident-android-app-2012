@@ -1,0 +1,134 @@
+[
+	{
+		"time": "07:00-10:00",
+		"event": "Slam Dunk",
+		"venue": "Basketball Court",
+		"description": "SLAMDUNK is a fusion of style, sportsmanship and athleticism. An inter-collegiate, invitational basketball tournament for men and women, SLAMDUNK attracts professional basketball teams of the highest caliber from all over the country."
+	},
+	{
+		"time": "09:00-11:00",
+		"event": "Workshop - Juggling",
+		"venue": "NTB",
+		"description": ""
+	},
+	{
+		"time": "09:00-13:00",
+		"event": "Adventure Sports",
+		"venue": "Hockey Gr./Mech Dept.",
+		"description": ""
+	},
+	{
+		"time": "10:00-12:00",
+		"event": "Lone Wolf Eliminations",
+		"venue": "ISTE Seminar Hall",
+		"description": "A premier solo quiz championship, to find the best quizzer in South India."
+	},
+	{
+		"time": "10:00-12:00",
+		"event": "Padavinoda(Kannada Word games)",
+		"venue": "Mining Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "10:00-13:00",
+		"event": "Expose: Portraiture Workshop",
+		"venue": "AppMech Seminar Hall",
+		"description": "Portrait photography or portraiture is the capture by means of photography of the likeness of a person or a small group of people (a group portrait), in which the face and expression is predominant. The objective is to display the likeness, personality, and even the mood of the subject. Like other types of portraiture, the focus of the photograph is the person's face, although the entire body and the background may be included. A portrait is generally not a snapshot, but a composed image of a person in a still position. A portrait often shows a person looking directly at the camera. Unlike many other photography styles, the subjects of portrait photography are often non-professional models. Family portraits commemorating special occasions, such as graduations or weddings, may be professionally produced or may be vernacular and are most often intended for private viewing rather than for public exhibition."
+	},
+	{
+		"time": "10:00-18:00",
+		"event": "Expose: Frames",
+		"venue": "SS-2",
+		"description": "This happening event pushes photo enthusiast from all over the nation to put their best clicks forward. This one-of-a-kind event entertains photographers of many categories including naturalism, black and white, shutterbug etc."
+	},
+	{
+		"time": "10:00-18:00",
+		"event": "Kalakriti",
+		"venue": "Underpass",
+		"description": "A display of our finest artistic talent. A jaw-dropping art exhibition by our very own. Everyone is welcome!"
+	},
+	{
+		"time": "10:00-18:00",
+		"event": "Gaming Events",
+		"venue": "CCC/SACA",
+		"description": "FIFA, DotA, Counter Strike and Need for Speed. Come battle it out!"
+	},
+	{
+		"time": "11:30-12:30",
+		"event": "Workshop-Balloon art",
+		"venue": "NTB",
+		"description": ""
+	},
+	{
+		"time": "13:00-15:00",
+		"event": "Workshop-Jewelry Making",
+		"venue": "Main Building Classroom",
+		"description": ""
+	},
+	{
+		"time": "14:00-16:00",
+		"event": "Prashna Prahara- Kannada Quiz",
+		"venue": "AppMech Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "14:00-17:00",
+		"event": "Vintage Car Expo",
+		"venue": "Main Building Road",
+		"description": "For all the auto enthusiasts and retro junkies out there, this is a call to the past. Come witness a plethora of the finest from all the ages for a walk down Automobile History Lane."
+	},
+	{
+		"time": "14:00-16:00",
+		"event": "Clay Modeling",
+		"venue": "Main Building Classroom",
+		"description": "Unleash your creativity using clay as the medium. The participants will be provided with a theme on which the model is to be designed."
+	},
+	{
+		"time": "14:00-18:00",
+		"event": "Hindi Events- Antakshari",
+		"venue": "ATB Seminar Hall",
+		"description": ""
+	},
+	{
+		"time": "14:00-17:00",
+		"event": "Entertainment Quiz",
+		"venue": "Main Seminar Hall",
+		"description": "A quiz on literature, music, movies, arts and other forms of entertainment."
+	},
+	{
+		"time": "15:00-17:00",
+		"event": "Workshop-Juggling",
+		"venue": "NTB",
+		"description": ""
+	},
+	{
+		"time": "15:00-19:00",
+		"event": "Adventure Sports",
+		"venue": "Hockey Gr./Mech Dept.",
+		"description": ""
+	},
+	{
+		"time": "15:30-16:30",
+		"event": "Slam Dunk",
+		"venue": "Basketball Court",
+		"description": "SLAMDUNK is a fusion of style, sportsmanship and athleticism. An inter-collegiate, invitational basketball tournament for men and women, SLAMDUNK attracts professional basketball teams of the highest caliber from all over the country."
+	},
+	{
+		"time": "16:00-18:00",
+		"event": "Beach Events",
+		"venue": "Beach",
+		"description": "The sands, the shore, the lighthouse, the crashing waves and a picture-perfect sunset. India's only campus with a private beach brings you pulsating music, kite- speckled sky and fun games."
+	},
+	{
+		"time": "16:00-18:00",
+		"event": "Informalz- Beach",
+		"venue": "Beach",
+		"description": "A bunch of short super random competitions. Win cool prizes really quick. Just walk in and have fun."
+	},
+	{
+		"time": "19:30-23:00",
+		"event": "Encore-Sonu Niigaam",
+		"venue": "SAC",
+		"description": ""
+	}
+]

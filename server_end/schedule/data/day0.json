@@ -1,0 +1,26 @@
+[
+	{
+		"time": "13:00-16:00",
+		"event": "Inci MUN",
+		"venue": "Main Seminar Hall/ChemDept Seminar Hall/ATB",
+		"description": "A Model United Nations (MUN) is, as its name suggests, a simulation of the functioning of the United Nations. Students step into the shoes of delegates from different parts of the world, and try to look for solutions to problems that we face today. It is a one-of-its-kind experience promoting leadership skills and spirit of teamwork."
+	},
+	{
+		"time": "16:00-17:00",
+		"event": "Basketball Inauguration",
+		"venue": "Basketball Court",
+		"description": "SLAMDUNK is a fusion of style, sportsmanship and athleticism. An inter-collegiate, invitational basketball tournament for men and women, SLAMDUNK attracts professional basketball teams of the highest caliber from all over the country."
+	},
+	{
+		"time": "17:30-19:30",
+		"event": "Incident 2012 Inauguration",
+		"venue": "SJA",
+		"description": ""
+	},
+	{
+		"time": "20:00-23:00",
+		"event": "Bandish-Eastern Musicals",
+		"venue": "SAC",
+		"description": "The limelight, the stage, plethora of musical creativity - the old and the new, blending in perfect harmony to give sounds that resonate within your mind."
+	}
+]

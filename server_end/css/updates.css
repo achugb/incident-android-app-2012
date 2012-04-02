@@ -1,0 +1,34 @@
+body {
+margin: 0
+}
+@font-face {
+	font-family: 'Signika Negative';
+	src: url('fonts/SignikaNegative-Light.ttf');
+}
+
+#updates-wrap {
+	margin-top: 8pt;
+	font-family: 'Signika Negative', sans-serif;
+	width: 100%;
+}
+.tweet {
+padding: 4pt 8pt;
+margin: 4pt 8pt;
+background: #212121;
+border-radius: 4pt;
+-webkit-border-radius: 4pt;
+}
+.time {
+text-align: right;
+padding: 2pt 8pt;
+}
+
+#status {
+	font-family: 'Signika Negative', sans-serif;
+	display: none;
+	position: fixed;
+	background: #838383;
+	bottom: 0;
+	text-align: center;
+	padding: 8pt;
+}
