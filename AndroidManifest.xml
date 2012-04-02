@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.spandexman.incident2012"
+    android:versionCode="1"
+    android:versionName="1.0" >
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+    
+    <uses-sdk android:minSdkVersion="7" />
+
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name" >
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Incident2012Activity"
+            android:label="Starting Activity"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".MapActivity"
+            android:label="Map Activity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".UpdatesActivity"
+            android:label="Updates Activity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".ScheduleActivity"
+            android:label="Schedules Activity"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".PollsActivity"
+            android:label="Polls Activity"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>
