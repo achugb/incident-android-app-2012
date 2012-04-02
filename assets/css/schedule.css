@@ -1,0 +1,85 @@
+@font-face {
+	font-family: 'Signika Negative';
+	src: url('fonts/SignikaNegative-Light.ttf');
+}
+
+@font-face {
+	font-family: 'Signika Negative';
+	font-weight: bold;
+	src: url('fonts/SignikaNegative-Semibold.ttf');
+}
+
+bod y {
+}
+#schedule-wrap {
+	font-family: 'Signika Negative', sans-serif;
+	width: 100%;
+}
+
+.schedule-day {
+    border-bottom: 3px solid #444;
+}
+
+.schedule-day-title {
+    padding: 9px 0 9px 8pt;
+    font-weight: bold;
+    background: #333333;
+}
+
+.schedule-day-title .day {
+	color: #dadada;
+}
+
+.schedule-day-title .date {
+	color: #888888;
+	float: right;
+	padding-right: 10px;
+}
+
+.first-line {
+	background: #212121;
+	position: relative;
+	padding-left: 8pt;
+	padding-top: 6pt;
+	padding-bottom: 4pt;
+	border-bottom: 1px #334 solid;
+	clear: both;
+}
+
+.description {
+background: #101010;
+padding: 8pt 8pt 4pt 8pt;
+}
+
+.item-title {
+	color: #dadada;
+	font-weight: bold;
+	height: 16pt;
+	background: #212121;
+}
+
+.item-time {
+	margin-right: 12px;
+}
+
+.item-venue {
+	background: #101010;
+	color: #999;
+	padding: 4pt 8pt 8pt 8pt;
+}
+
+.schedule-items-wrap, .desc-wrap {
+overflow: hidden;
+}
+.desc-wrap {
+}
+
+#status {
+	font-family: 'Signika Negative', sans-serif;
+	display: none;
+	position: fixed;
+	background: #838383;
+	bottom: 0;
+	text-align: center;
+	padding: 8pt;
+}

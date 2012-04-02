@@ -1,0 +1,59 @@
+@font-face {
+	font-family: 'Signika Negative';
+	src: url('fonts/SignikaNegative-Light.ttf');
+}
+
+body {
+	font-family: 'Signika Negative', sans-serif;
+	font-size: 10pt;
+    background: black;
+    color: white;
+    margin:0;
+}
+
+#polls-wrap{
+		font-family: 'Signika Negative', sans-serif;
+}
+
+h1 {
+    padding-left: 1em;
+    font-size: 1.5em;
+}
+
+.poll {
+    border-bottom: 3px solid #444;
+}
+.poll-question {
+    padding: 9px 0 9px 20px;
+    font-weight: bold;
+    background: #333333;
+}
+
+.poll-options-wrap {
+height: 0;
+overflow: hidden;
+}
+
+label {
+    width: 100%;
+}
+.poll-option {
+    position: relative;
+    padding: 5px;
+}
+
+.left-space {
+width: 20pt;
+float: left;
+color: #bbbbbb;
+font-weight: bold;
+text-align: center;
+}
+
+.votes-bar {
+z-index: -11;
+position:absolute;
+background: #ddd;
+height: 20%;
+left: 0;
+}
